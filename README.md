@@ -46,7 +46,28 @@ Els frameworks estan composats per:
 
 ### Tipus de proves
 
-- **Funcionals:** Les proves funcionals es centren a avaluar el compliment dels requisits demanats i així comprovar el funcionament del nostre sistema. 
-- **No funcionals:** Les no funcionals es centren en evaluar les altres característiques del sistema com el rendiment, la seguretat, la usabilitat, etc.
+#### Funcionals
 
+Les proves funcionals es centren a avaluar el compliment dels requisits demanats i així comprovar el funcionament del nostre sistema. 
+
+Diferents proves funcionals:
+- Pruebas unitarias
+- Pruebas de regresión
+- Pruebas de integración
+- Pruebas de humo
+- Pruebas del sistema
+- Pruebas alfa y beta
+- Pruebas de aceptación
+
+#### No funcionals
+
+Les no funcionals es centren en evaluar les altres característiques del sistema com el rendiment, la seguretat, la usabilitat, etc.
+
+Diferents proves no funcionals: 
+- Pruebas de usabilidad
+- Pruebas de rendimiento
+- Pruebas de stress
+- Pruebas de seguridad
+- Pruebas de compatibilidad
+- Pruebas de portabilidad
 
